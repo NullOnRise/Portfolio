@@ -231,7 +231,7 @@ onUnmounted(() => {
       <footer class="footer-note">
         <p>
           This is also open source in
-          <a href="https://github.com/NullOnRise/NullsPortfolio" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://github.com/NullOnRise/Portfolio/tree/main" target="_blank" rel="noopener">GitHub</a>
         </p>
       </footer>
     </main>
